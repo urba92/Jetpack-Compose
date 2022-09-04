@@ -2,7 +2,7 @@
 
 Navigation
 --------
-- https://www.rockandnull.com/jetpack-compose-navigation/
+- [Jetpack Compose: Navigation](https://www.rockandnull.com/jetpack-compose-navigation/) 
 - 2
 
 Screenshots
