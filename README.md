@@ -13,6 +13,7 @@ Navigation
 - [A Jetpack Compose Bottom Navigation Bar Tutorial](https://www.answertopia.com/jetpack-compose/a-compose-bottom-navigation-bar-tutorial/)
 - [Bottom Navigation in Jetpack Compose Android](https://c1ctech.com/bottom-navigation-in-jetpack-compose-android/) by Arun Chandravanshi
 - [Bottom Navigation and Navigation Drawer Using Scaffold from Jetpack Compose](https://www.droidcon.com/2021/06/01/bottom-navigation-and-navigation-drawer-using-scaffold-from-jetpack-compose/) by Avinash Agarwal
+- [How to Create a Collapsible Bottom Navigation Bar using Jetpack Compose](https://www.section.io/engineering-education/collapsible-bottom-navigation-bar-using-jetpack-compose-navigation/) by Antony Gitau
 
 Screenshots
 -----------
