@@ -11,10 +11,10 @@ Navigation
 - [How to create Bottom Navigation Bar with Jetpack Compose](https://johncodeos.com/how-to-create-bottom-navigation-bar-with-jetpack-compose/)
 - [Jetpack Compose Bottom Navigation View in Android](https://developersbreach.com/bottom-navigation-view-compose/)
 - [A Jetpack Compose Bottom Navigation Bar Tutorial](https://www.answertopia.com/jetpack-compose/a-compose-bottom-navigation-bar-tutorial/)
-- [Bottom Navigation in Jetpack Compose Android](https://c1ctech.com/bottom-navigation-in-jetpack-compose-android/) by Arun Chandravanshi
-- [Bottom Navigation and Navigation Drawer Using Scaffold from Jetpack Compose](https://www.droidcon.com/2021/06/01/bottom-navigation-and-navigation-drawer-using-scaffold-from-jetpack-compose/) by Avinash Agarwal
-- [How to Create a Collapsible Bottom Navigation Bar using Jetpack Compose](https://www.section.io/engineering-education/collapsible-bottom-navigation-bar-using-jetpack-compose-navigation/) by Antony Gitau
-- [Implement Bottom Bar Navigation in Jetpack Compose](https://proandroiddev.com/implement-bottom-bar-navigation-in-jetpack-compose-b530b1cd9ee2) by Ziv Kesten
+- Arun Chandravanshi, ["Bottom Navigation in Jetpack Compose Android".](https://c1ctech.com/bottom-navigation-in-jetpack-compose-android/)
+- Avinash Agarwal, ["Bottom Navigation and Navigation Drawer Using Scaffold from Jetpack Compose".](https://www.droidcon.com/2021/06/01/bottom-navigation-and-navigation-drawer-using-scaffold-from-jetpack-compose/)
+- Antony Gitau, ["How to Create a Collapsible Bottom Navigation Bar using Jetpack Compose".](https://www.section.io/engineering-education/collapsible-bottom-navigation-bar-using-jetpack-compose-navigation/)
+- Ziv Kesten, ["Implement Bottom Bar Navigation in Jetpack Compose".](https://proandroiddev.com/implement-bottom-bar-navigation-in-jetpack-compose-b530b1cd9ee2)
 
 Screenshots
 -----------
