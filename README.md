@@ -1,6 +1,6 @@
 # Jetpack Compose
 
-Navigation
+[Navigating with Compose](https://developer.android.com/jetpack/compose/navigation)
 ----------
 - Antony Gitau, ["How to Create a Collapsible Bottom Navigation Bar using Jetpack Compose".](https://www.section.io/engineering-education/collapsible-bottom-navigation-bar-using-jetpack-compose-navigation/)
 - Arun Chandravanshi, ["Bottom Navigation in Jetpack Compose Android".](https://c1ctech.com/bottom-navigation-in-jetpack-compose-android/)
@@ -15,7 +15,7 @@ Navigation
 - Yagnik Vadgama, ["Bottom Navigation in Jetpack Compose".](https://blog.yudiz.com/bottom-navigation-in-jetpack-compose/)
 - Ziv Kesten, ["Implement Bottom Bar Navigation in Jetpack Compose".](https://proandroiddev.com/implement-bottom-bar-navigation-in-jetpack-compose-b530b1cd9ee2)
 
-Screenshots
+[Material Components and layouts](https://developer.android.com/jetpack/compose/layouts/material)
 -----------
 - 1
 - 2
