@@ -26,5 +26,6 @@
 
 [Graphics in Compose](https://developer.android.com/jetpack/compose/graphics)
 --
+- Vikas Kumar, ["Jetpack Compose Canvas".](https://medium.com/falabellatechnology/jetpack-compose-canvas-8aee73eab393)
 -
--
+
