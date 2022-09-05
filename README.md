@@ -22,7 +22,7 @@
 
 [Gestures](https://developer.android.com/jetpack/compose/gestures)
 --
-- Christopher Coffee, [Jetpack Compose: Detect the current number of touches on the screen](https://towardsdev.com/jetpack-compose-detect-the-number-of-fingers-touching-the-screen-253a1e1179f9)
+- Christopher Coffee, ["Jetpack Compose: Detect the current number of touches on the screen".](https://towardsdev.com/jetpack-compose-detect-the-number-of-fingers-touching-the-screen-253a1e1179f9)
 
 [Graphics in Compose](https://developer.android.com/jetpack/compose/graphics)
 --
