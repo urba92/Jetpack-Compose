@@ -33,3 +33,6 @@
 --
 - Alexander Ruskovski, [VolumeKnob](https://medium.com/@alexruskovski/jetpack-compose-custom-views-c5fe3d6cbb03)
 
+
+Erselan Khan, ["Jetpack Compose: Runtime Permissions".](https://towardsdev.com/jetpack-compose-runtime-permissions-erselan-khan-75f60800b28f)
+
