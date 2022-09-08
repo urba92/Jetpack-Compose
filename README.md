@@ -31,5 +31,5 @@
 
 [Custom Views]
 --
--Alexander Ruskovski, [VolumeKnob](https://medium.com/@alexruskovski/jetpack-compose-custom-views-c5fe3d6cbb03)
+- Alexander Ruskovski, [VolumeKnob](https://medium.com/@alexruskovski/jetpack-compose-custom-views-c5fe3d6cbb03)
 
