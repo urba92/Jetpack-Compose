@@ -29,3 +29,7 @@
 - Vikas Kumar, ["Jetpack Compose Canvas".](https://medium.com/falabellatechnology/jetpack-compose-canvas-8aee73eab393)
 -
 
+[Custom Views]
+--
+-Alexander Ruskovski, [VolumeKnob](https://medium.com/@alexruskovski/jetpack-compose-custom-views-c5fe3d6cbb03)
+
